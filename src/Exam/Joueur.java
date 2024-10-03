@@ -1,9 +1,5 @@
-/*Devoir 2 OOP , Equipe 6 
+/*Devoir 2 OOP 
  * Lokmen Abid 
- * Ibrahima Ba Cisse
- * Soumaila Saré
- * Ndiao Macodou Mbow 
- * Jose-Rockendy Hede
  * */
 
 package Exam;
